@@ -1,5 +1,6 @@
 body{
     background-color: rgb(108, 233, 187);
+    overflow: hidden;
 }
 
 .wrapper{
